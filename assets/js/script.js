@@ -107,7 +107,7 @@ window.onload = function(){
   }
   
   
-// Add Local Storage And Recall Loal Storage Information Into TextEntry Divs
+// Add Local Storage And Recall of Local Storage Information Into TextEntry Divs
 
   function eightAM() {
     var input_textarea = document.querySelector("#entry8am");
