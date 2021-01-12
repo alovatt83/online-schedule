@@ -1,5 +1,5 @@
 # Online Work Day Scheduler
->  This application allows the user to complete a timed quiz based on JavaScript trivia questions. Your highscore is based on your remaining time after you've finished answering all of your queations. But be careful, for every question you answer incorrectly, you'll be deducted 10 seconds of your remaining time!  
+>  This application allows users to plan their work day in advance by entering in tasks any time between 8AM and 6 PM. Users can save this information so it will not disappear on a page refresh. The scheduler will automatically display grey for expired times, light blue for current time and green for upcoming time frames.
 
 ## Table of contents
 * [General info](#general-info)
