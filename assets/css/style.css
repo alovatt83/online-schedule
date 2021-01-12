@@ -1,9 +1,10 @@
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Copperplate, Papyrus, fantasy;
   font-size: 16px;
   line-height: 1;
-  background: black;
+ 
   font-weight: bold;
+  color: white;
 }
 
 .textarea {
@@ -59,8 +60,8 @@ footer {
 }
 
 .current {
-  background-color: blue;
-  color: white;
+  background-color: lightblue;
+  color: black;
 }
 
 .upcoming {
