@@ -1,4 +1,4 @@
-# Online Word Day Scheduler
+# Online Work Day Scheduler
 >  This application allows the user to complete a timed quiz based on JavaScript trivia questions. Your highscore is based on your remaining time after you've finished answering all of your queations. But be careful, for every question you answer incorrectly, you'll be deducted 10 seconds of your remaining time!  
 
 ## Table of contents
