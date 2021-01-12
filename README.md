@@ -18,7 +18,7 @@ Fith weekly assignment due on Sunday January 17, 2021 @ 11:59 PM.
 https://alovatt83.github.io/online-schedule/
 
 ## Screenshot
-![Homepage Screenshot](https://alovatt83.github.io/online-schedule/assets/images/screenshot.png)
+![Homepage Screenshot](./assets/images/screenshot.png)
 
 ## Technologies
 * HTML
